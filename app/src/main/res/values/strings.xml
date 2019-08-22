@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kupon Robotu</string>
+    <string name="navigation_bottom_guess">Tahmin</string>
+    <string name="navigation_bottom_coupon">Kuponlarım</string>
+    <string name="navigation_bottom_results">Sonuçlar</string>
+    <string name="navigation_bottom_analysis">Analiz</string>
+</resources>

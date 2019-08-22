@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_guess"
+        android:icon="@drawable/ic_guess_black_24dp"
+        android:title="@string/navigation_bottom_guess" />
+
+    <item
+        android:id="@+id/navigation_coupon"
+        android:icon="@drawable/ic_coupon_black_24dp"
+        android:title="@string/navigation_bottom_coupon" />
+
+    <item
+        android:id="@+id/navigation_results"
+        android:icon="@drawable/ic_results_black_24dp"
+        android:title="@string/navigation_bottom_results" />
+
+    <item
+        android:id="@+id/navigation_analysis"
+        android:icon="@drawable/ic_analysis_black_24dp"
+        android:title="@string/navigation_bottom_analysis" />
+
+</menu>

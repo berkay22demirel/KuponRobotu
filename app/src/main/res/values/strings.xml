@@ -1,7 +1,10 @@
 <resources>
     <string name="app_name">Kupon Robotu</string>
-    <string name="navigation_bottom_guess">Tahmin</string>
-    <string name="navigation_bottom_coupon">Kuponlarım</string>
-    <string name="navigation_bottom_results">Sonuçlar</string>
-    <string name="navigation_bottom_analysis">Analiz</string>
+    <string name="guess">Tahmin</string>
+    <string name="my_coupon">Kuponlarım</string>
+    <string name="results">Sonuçlar</string>
+    <string name="analysis">Analiz</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

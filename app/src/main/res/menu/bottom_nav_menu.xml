@@ -4,21 +4,22 @@
     <item
         android:id="@+id/navigation_guess"
         android:icon="@drawable/ic_guess_black_24dp"
-        android:title="@string/navigation_bottom_guess" />
+        android:title="@string/guess" />
 
     <item
         android:id="@+id/navigation_coupon"
         android:icon="@drawable/ic_coupon_black_24dp"
-        android:title="@string/navigation_bottom_coupon" />
+        android:title="@string/my_coupon" />
 
     <item
         android:id="@+id/navigation_results"
         android:icon="@drawable/ic_results_black_24dp"
-        android:title="@string/navigation_bottom_results" />
+        android:title="@string/results" />
+
 
     <item
         android:id="@+id/navigation_analysis"
         android:icon="@drawable/ic_analysis_black_24dp"
-        android:title="@string/navigation_bottom_analysis" />
+        android:title="@string/analysis" />
 
 </menu>
